@@ -1,2 +1,4 @@
-[main 8f881b6] upadted
- 1 file changed, 2 insertions(+), 2 deletions(-)
+[main 1b9208b] upadted
+ 3 files changed, 4 insertions(+), 2 deletions(-)
+ create mode 100644 mod_von_jonas/bare_skin.bbmodel
+ create mode 100644 mod_von_jonas/cosmetic_1.texture.pixil
