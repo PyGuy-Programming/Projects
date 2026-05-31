@@ -1,2 +1,3 @@
-[main c0a16db] upadted
- 1 file changed, 2 insertions(+), 2 deletions(-)
+[main 36a32ee] upadted
+ 1 file changed, 1 deletion(-)
+ delete mode 160000 bpm (brew packages manager)
