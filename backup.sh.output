@@ -1,0 +1,23 @@
+Ubuntu → Pop!_OS Backup
+Ziel: /mnt/nas/DISK-1/Dateien/Backups/backup_2026-06-03_18-03-39
+Gestartet: Mi 3. Jun 18:03:39 CEST 2026
+
+
+━━━ Cache leeren ━━━
+[!] Leere ~/.cache/ ...
+[✓] ~/.cache/ geleert
+
+━━━ App-Configs ━━━
+[✓] /home/luca/.config/FEZ
+[✓] /home/luca/.config/inkscape
+[✓] /home/luca/.config/neofetch
+[✓] /home/luca/.config/rclone/rclone.conf
+[✓] /home/luca/.config/StardewValley
+[✓] /home/luca/.config/Zettlr
+[✓] /home/luca/.config/sshmgr
+[✓] /home/luca/.config/vesktop
+[✓] /home/luca/.config/opencode/opencode.json
+[~] Übersprungen (nicht gefunden): /home/luca/.opencode.json
+rsync: [generator] symlink "/mnt/nas/DISK-1/Dateien/Backups/backup_2026-06-03_18-03-39/.config/Brave-Browser/SingletonCookie" -> "1756725876885637629" failed: Operation not supported (95)
+rsync: [generator] symlink "/mnt/nas/DISK-1/Dateien/Backups/backup_2026-06-03_18-03-39/.config/Brave-Browser/SingletonLock" -> "TuxPad-25255" failed: Operation not supported (95)
+rsync: [generator] symlink "/mnt/nas/DISK-1/Dateien/Backups/backup_2026-06-03_18-03-39/.config/Brave-Browser/SingletonSocket" -> "/tmp/org.chromium.Chromium.5c9clZ/SingletonSocket" failed: Operation not supported (95)
